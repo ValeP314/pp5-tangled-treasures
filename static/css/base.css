@@ -2,12 +2,39 @@ html {
     height: 100%;
 }
 
+header {
+    background-color: #c0a695;
+}
+
+#delivery-banner {
+    background-color: #959CA0;
+}
+
 body {
     background: url('/media/homepage.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Lato';
+}
+
+/* footer */
+
+footer {
+    background-color: #c0a695;
+}
+
+.socials i {
+    font-size: 200%;
+    color: #555;
+    text-align: center;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.social-icons {
+    text-align: center;
+    margin: 1%;
 }
 
 /* from Bulma */
