@@ -49,15 +49,15 @@ body {
 }
 
 .text-black {
-    color: #000 !important;
+    color: #000;
 }
 
 .border-black {
-    border: 1px solid black !important;
+    border: 1px solid black;
 }
 
 .bg-black {
-    background: #000 !important;
+    background: #000;
 }
 
 /* -------------------------------- Media Queries */
