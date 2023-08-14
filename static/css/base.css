@@ -61,7 +61,7 @@ footer {
 }
 
 .btn-black {
-    background: black;
+    background: #555;
     color: white;
 }
 
@@ -70,13 +70,14 @@ footer {
 .shop-now-button:focus,
 .btn-black:hover,
 .btn-black:active,
-.btn-black:focus {
-    background: #222;
+.btn-black:focus
+.socials:hover {
+    background: black;
     color: white;
 }
 
 .text-black {
-    color: #000;
+    color: #555;
 }
 
 .border-black {
