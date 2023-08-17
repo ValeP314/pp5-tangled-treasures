@@ -90,15 +90,15 @@ footer {
 }
 
 .text-black {
-    color: #555;
+    color: #000 !important;
 }
 
 .border-black {
-    border: 1px solid black;
+    border: 1px solid black !important;
 }
 
 .bg-black {
-    background: #000;
+    background: #000 !important;
 }
 
 .overlay {
@@ -118,8 +118,8 @@ footer {
 }
 
 a.category-badge > span.badge:hover {
-    background: #212529;
-    color: #fff;
+    background: #212529 !important;
+    color: #fff !important;
 }
 
 .btt-button {
