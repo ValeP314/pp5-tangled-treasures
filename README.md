@@ -1,48 +1,9 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
-
-
-
 # Tangled Treasures
 
 Welcome to Tangled Treasures!
+This is my attmpt to submit a project, the final project, in just 5 days.
+It is not finished, and it is not perfect, but I gave it all my energies and free time of the last 5 days. 
+Due to personal circumstances, I wasn't able to commit as much time as I wanted to those last couple of projects, but I have enjoyed every minute, and I am sure I will keep studyng and practicing. Thank you for the opportunity, and for time.
 
 View the live project here: [Tangled Treasures]()
 
@@ -100,42 +61,26 @@ View the live project here: [Tangled Treasures]()
 
 - __Navigation Bar__
 
-
 - __The landing page image__
-
 
 - __The listings list__
 
-  
-
 - __The listings details__
 
- 
-
 - __The Admin functionalities__
-
   
-
 - __The Footer__ 
-
-  
-
 
 - __Sign In/Register Form__
 
-  
-
-
 - __Sign Up Form__
-
 
 - __Logout Form__
 
 
 
 ### Features Left to Implement
-
-- 
+/
 
 ## Technologies Used
 
@@ -161,35 +106,16 @@ View the live project here: [Tangled Treasures]()
 * [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
 
 ## Testing 
-
-- 
-
+Tests were not performed due to lack of time, so just the general checks during the coding sessions were done, in order to make sure that the code provided was at least working.
 
 ### Validator Testing 
-
-- HTML
-  - 
-
-- CSS
-  - 
-
-- Python
-  - 
-  - The remaining Python files did not show any errors:
-    - 
-
-
-- Accessibility
-  
-
+/
 
 ### Fixed Bugs
-
-- 
-
+/
 
 ### Unfixed Bugs
-
+- Payments: there was an issue with checkout_order that I wasn't able to address in the short amout of time I had.
 
 ## Deployment
 The live link can be found here - [Tangled Treasures]()
@@ -206,6 +132,7 @@ The live link can be found here - [Tangled Treasures]()
 
 ### Images
 - The [homepage]() image was taken from Freepik (https://www.freepik.com/free-photo/top-view-tea-mug-yarn-basket-with-pine-cones_11630959.htm#page=2&query=crochet&position=33&from_view=search&track=sph).
+- the pictures used for the various items, were taken from Freepik, Pixabay, Pexels and Vecteezy.
 - The [icon]() image was taken from Vecteezy (https://www.vecteezy.com/free-vector/crochet).
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
 - The [favicon](./media/) was created uploading the icon image onto [Favicon.io](https://favicon.io/favicon-generator/).
