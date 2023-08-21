@@ -29,7 +29,7 @@ SECRET_KEY = 'z87w9%xk1a0x1krci@m&!28)kymkdq2&0)kceo-cw7^o5i$=2h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://tangled-treasures-f6430d8ea372.herokuapp.com', '8000-valep314-pp5-tangled-tre-b57ytznt7g.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['tangled-treasures-f6430d8ea372.herokuapp.com', '8000-valep314-pp5-tangled-tre-b57ytznt7g.us2.codeanyapp.com']
 
 
 # Application definition
